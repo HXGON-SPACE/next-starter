@@ -12,10 +12,17 @@ A TypeScript starter for Next.js that includes all you need to build amazing pro
 
 ## 🚀 Getting started
 
-Before commit:
+If you prefer you can clone this repository and run the following commands inside the project folder:
+
+1. `npm install` or `yarn`;
+2. `yarn dev` or `npm run dev`;
+
+To view the project open `http://localhost:3000`.
+
+## ✍🏻 Before commit
 Make sure your commit message follow `@commitlint/config-conventional` style
 
-`(SCOPE): message`
+`(scope): message`
 
 Possible scope values:
 ```
@@ -34,13 +41,7 @@ test
 
 For example:
 ```
-FIX: some message # fails
-fix: some message # passes
+FIX: some message # fails ❌
+fix: some message # passes ✅
 ```
 
-If you prefer you can clone this repository and run the following commands inside the project folder:
-
-1. `npm install` or `yarn`;
-2. `yarn dev` or `npm run dev`;
-
-To view the project open `http://localhost:3000`.
