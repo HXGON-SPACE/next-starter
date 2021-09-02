@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "pkief.material-icon-theme",
+    "ionutvmi.path-autocomplete",
+    "rvest.vs-code-prettier-eslint",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag"
+  ]
+}
