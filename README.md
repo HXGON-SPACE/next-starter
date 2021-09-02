@@ -1,5 +1,3 @@
-
-
 A TypeScript starter for Next.js that includes all you need to build amazing projects 🔥
 
 - 📏 **ESLint** — Pluggable JavaScript linter
@@ -14,10 +12,30 @@ A TypeScript starter for Next.js that includes all you need to build amazing pro
 
 ## 🚀 Getting started
 
-The best way to start with this template is using `create-next-app`.
+Before commit:
+Make sure your commit message follow `@commitlint/config-conventional` style
 
+`(SCOPE): message`
+
+Possible scope values:
 ```
-npx create-next-app ts-next -e https://github.com/jpedroschmitz/typescript-nextjs-starter
+build
+chore
+ci
+docs
+feat
+fix
+perf
+refactor
+revert
+style
+test
+```
+
+For example:
+```
+FIX: some message # fails
+fix: some message # passes
 ```
 
 If you prefer you can clone this repository and run the following commands inside the project folder:
