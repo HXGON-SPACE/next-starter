@@ -1,5 +1,6 @@
 A TypeScript starter for Next.js that includes all you need to build amazing projects 🔥
 
+- 🎨 **Tailwind** — A utility-first CSS framework
 - 📏 **ESLint** — Pluggable JavaScript linter
 - 💖 **Prettier** - Opinionated Code Formatter
 - 🐶 **Husky** — Use git hooks with ease
